@@ -1,0 +1,28 @@
+{
+    "ip_addresses": [
+        {
+            "service": "webhooks",
+            "ip": "54.186.129.4/32"
+        },
+        {
+            "service": "webhooks",
+            "ip": "54.149.234.242/32"
+        },
+        {
+            "service": "slack",
+            "ip": "54.186.129.4/32"
+        },
+        {
+            "service": "slack",
+            "ip": "54.149.234.242/32"
+        },
+        {
+            "service": "hipchat",
+            "ip": "54.186.129.4/32"
+        },
+        {
+            "service": "hipchat",
+            "ip": "54.149.234.242/32"
+        }
+    ]
+}
