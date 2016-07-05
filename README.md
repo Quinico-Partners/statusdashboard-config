@@ -1,0 +1,2 @@
+# statusdashboard-config
+StatusDashboard Configuration
