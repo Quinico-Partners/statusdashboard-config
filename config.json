@@ -24,5 +24,47 @@
             "service": "hipchat",
             "ip": "54.149.234.242/32"
         }
+    ],
+    "phone_numbers": [
+        {
+            "service": "subscriptions",
+            "number": "+14155282215"
+        },
+        {
+            "service": "subscriptions",
+            "number": "+14155282216"
+        },
+        {
+            "service": "subscriptions",
+            "number": "+14155282217"
+        },
+        {
+            "service": "subscriptions",
+            "number": "+14155282218"
+        },
+        {
+            "service": "subscriptions",
+            "number": "+14155282219"
+        },
+        {
+            "service": "notifications",
+            "number": "+14155282215"
+        },
+        {
+            "service": "notifications",
+            "number": "+14155282216"
+        },
+        {
+            "service": "notifications",
+            "number": "+14155282217"
+        },
+        {
+            "service": "notifications",
+            "number": "+14155282218"
+        },
+        {
+            "service": "notifications",
+            "number": "+14155282219"
+        }
     ]
 }
