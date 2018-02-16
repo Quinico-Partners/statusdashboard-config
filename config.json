@@ -1,69 +1,57 @@
 {
     "ip_addresses": [
         {
-            "service": "webhooks",
+            "service": "webhook_notifications",
             "ip": "54.186.129.4/32"
         },
         {
-            "service": "webhooks",
+            "service": "webhook_notifications",
             "ip": "54.149.234.242/32"
         },
         {
-            "service": "slack",
+            "service": "slack_notifications",
             "ip": "54.186.129.4/32"
         },
         {
-            "service": "slack",
+            "service": "slack_notifications",
             "ip": "54.149.234.242/32"
         },
         {
-            "service": "hipchat",
+            "service": "hipchat_notifications",
             "ip": "54.186.129.4/32"
         },
         {
-            "service": "hipchat",
+            "service": "hipchat_notifications",
             "ip": "54.149.234.242/32"
+        },
+        {
+            "service": "email_notifications",
+            "ip": "198.2.179.93/32"
+        },
+        {
+            "service": "email_notifications",
+            "ip": "198.2.179.129/32"
         }
     ],
     "phone_numbers": [
         {
-            "service": "subscriptions",
+            "service": "sms_notifications",
             "number": "+14155282215"
         },
         {
-            "service": "subscriptions",
+            "service": "sms_notifications",
             "number": "+14155282216"
         },
         {
-            "service": "subscriptions",
+            "service": "sms_notifications",
             "number": "+14155282217"
         },
         {
-            "service": "subscriptions",
+            "service": "sms_notifications",
             "number": "+14155282218"
         },
         {
-            "service": "subscriptions",
-            "number": "+14155282219"
-        },
-        {
-            "service": "notifications",
-            "number": "+14155282215"
-        },
-        {
-            "service": "notifications",
-            "number": "+14155282216"
-        },
-        {
-            "service": "notifications",
-            "number": "+14155282217"
-        },
-        {
-            "service": "notifications",
-            "number": "+14155282218"
-        },
-        {
-            "service": "notifications",
+            "service": "sms_notifications",
             "number": "+14155282219"
         }
     ]
