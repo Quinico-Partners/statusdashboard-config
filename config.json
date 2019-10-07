@@ -17,11 +17,11 @@
             "ip": "54.149.234.242/32"
         },
         {
-            "service": "hipchat_notifications",
+            "service": "teams_notifications",
             "ip": "54.186.129.4/32"
         },
         {
-            "service": "hipchat_notifications",
+            "service": "teams_notifications",
             "ip": "54.149.234.242/32"
         },
         {
