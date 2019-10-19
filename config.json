@@ -1,36 +1,44 @@
 {
     "ip_addresses": [
         {
-            "service": "webhook_notifications",
-            "ip": "54.186.129.4/32"
-        },
-        {
-            "service": "webhook_notifications",
-            "ip": "54.149.234.242/32"
-        },
-        {
-            "service": "slack_notifications",
-            "ip": "54.186.129.4/32"
-        },
-        {
-            "service": "slack_notifications",
-            "ip": "54.149.234.242/32"
-        },
-        {
-            "service": "teams_notifications",
-            "ip": "54.186.129.4/32"
-        },
-        {
-            "service": "teams_notifications",
-            "ip": "54.149.234.242/32"
-        },
-        {
             "service": "email_notifications",
             "ip": "198.2.179.93/32"
         },
         {
             "service": "email_notifications",
             "ip": "198.2.179.129/32"
+        },
+        {
+            "service": "hangouts_notifications",
+            "ip": "54.186.129.4/32"
+        },
+        {
+            "service": "hangouts_notifications",
+            "ip": "54.149.234.242/32"
+        },
+        {
+            "service": "slack_notifications",
+            "ip": "54.186.129.4/32"
+        },
+        {
+            "service": "slack_notifications",
+            "ip": "54.149.234.242/32"
+        },
+        {
+            "service": "teams_notifications",
+            "ip": "54.186.129.4/32"
+        },
+        {
+            "service": "teams_notifications",
+            "ip": "54.149.234.242/32"
+        },
+        {
+            "service": "webhook_notifications",
+            "ip": "54.186.129.4/32"
+        },
+        {
+            "service": "webhook_notifications",
+            "ip": "54.149.234.242/32"
         }
     ],
     "phone_numbers": [
